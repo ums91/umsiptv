@@ -415,8 +415,6 @@ https://ythls.armelin.one/channel/UC_fNP2ettM5ius4BZ6G7MOg.m3u8
 https://ythls.armelin.one/channel/UCyscVWiJELkATSuU-RF2NLg.m3u8
 #EXTINF:-1 tvg-id="AlhurraIraq.us",Alhurra Iraq (Alternative) (720p)
 https://ythls.armelin.one/channel/UCTkMv4UVWC7bpnO1edsrB9A.m3u8
-#EXTINF:-1 tvg-id="AlltheKPop.kr",All The K-POP (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCPde4guD9yFBRzkxk2PatoA.m3u8
 #EXTINF:-1 tvg-id="AlmagharibiaTV.uk",Almagharibia TV (1080p)
 https://ythls.armelin.one/channel/UCwKS2U-DwjPZZvM6mSXPKgA.m3u8
 #EXTINF:-1 tvg-id="AmarUjala.in",Amar Ujala (720p) [Not 24/7]
@@ -3646,8 +3644,6 @@ https://stream1.aswifi.it/stereo5/live/index.m3u8
 https://54627d4fc5996.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperJTVTeramo.it",Super J TV Teramo (720p) [Not 24/7]
 http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8
-#EXTINF:-1 tvg-id="SuperTennis.it",Super Tennis (1080p)
-https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
 #EXTINF:-1 tvg-id="SuperTV.it",Super TV (720p)
 http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperTV.it",Super TV (720p)
@@ -13012,6 +13008,8 @@ https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8
 #EXTINF:-1 tvg-id="MRTVParliament.mm",MRTV Parliament (480p)
 https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel7.mm",Channel 7 (720p)
+https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
 
 #EXTINF:-1, Fr_fashiontv Playlist
 https://raw.githubusercontent.com/ums91/umsiptv/master/streams/fr_fashiontv.m3u
@@ -13154,8 +13152,6 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8
 #EXTINF:-1 tvg-id="ShopChannel.jp",Shop Channel (1080p) [Not 24/7]
 https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 tvg-id="JORXDTV.jp",TBS (540p)
-https://tbs4.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id="TokyoMX1.jp",Tokyo MX1 (720p)
 https://mcas-eqms-mx2-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7d0034b85b5175ddaf05454/EQMS_MX1/master.m3u8
 #EXTINF:-1 tvg-id="Weathernews.jp",Weathernews (720p)
@@ -20691,8 +20687,6 @@ https://ythls.armelin.one/channel/UC_fNP2ettM5ius4BZ6G7MOg.m3u8
 https://ythls.armelin.one/channel/UCyscVWiJELkATSuU-RF2NLg.m3u8
 #EXTINF:-1 tvg-id="AlhurraIraq.us",Alhurra Iraq (Alternative) (720p)
 https://ythls.armelin.one/channel/UCTkMv4UVWC7bpnO1edsrB9A.m3u8
-#EXTINF:-1 tvg-id="AlltheKPop.kr",All The K-POP (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCPde4guD9yFBRzkxk2PatoA.m3u8
 #EXTINF:-1 tvg-id="AlmagharibiaTV.uk",Almagharibia TV (1080p)
 https://ythls.armelin.one/channel/UCwKS2U-DwjPZZvM6mSXPKgA.m3u8
 #EXTINF:-1 tvg-id="AmarUjala.in",Amar Ujala (720p) [Not 24/7]
@@ -23922,8 +23916,6 @@ https://stream1.aswifi.it/stereo5/live/index.m3u8
 https://54627d4fc5996.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperJTVTeramo.it",Super J TV Teramo (720p) [Not 24/7]
 http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8
-#EXTINF:-1 tvg-id="SuperTennis.it",Super Tennis (1080p)
-https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
 #EXTINF:-1 tvg-id="SuperTV.it",Super TV (720p)
 http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperTV.it",Super TV (720p)
@@ -33288,6 +33280,8 @@ https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8
 #EXTINF:-1 tvg-id="MRTVParliament.mm",MRTV Parliament (480p)
 https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel7.mm",Channel 7 (720p)
+https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
 
 #EXTINF:-1, Fr_fashiontv Playlist
 https://raw.githubusercontent.com/ums91/umsiptv/master/streams/fr_fashiontv.m3u
@@ -33430,8 +33424,6 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8
 #EXTINF:-1 tvg-id="ShopChannel.jp",Shop Channel (1080p) [Not 24/7]
 https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 tvg-id="JORXDTV.jp",TBS (540p)
-https://tbs4.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id="TokyoMX1.jp",Tokyo MX1 (720p)
 https://mcas-eqms-mx2-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7d0034b85b5175ddaf05454/EQMS_MX1/master.m3u8
 #EXTINF:-1 tvg-id="Weathernews.jp",Weathernews (720p)
@@ -45390,8 +45382,6 @@ https://buzzr-samsungus.amagi.tv/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.m3u8
 #EXTINF:-1 tvg-id="Circle.us",Circle (1080p)
 https://circle-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Clarity4K.us",Clarity 4K (2160p)
-https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 #EXTINF:-1 tvg-id="Crime360.us",Crime 360 (720p)
 https://c9747bb6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19DcmltZTM2MF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="DegrassiTheNextGeneration.us",Degrassi The Next Generation (720p)
@@ -48090,6 +48080,8 @@ https://live.obslivestream.com/wtv/index.m3u8
 https://vdo.panelchs.com:3927/live/xtvcontrollive.m3u8
 #EXTINF:-1 tvg-id="",X TV Zona Film
 https://vdo.panelchs.com:3769/live/vdo54575151live.m3u8
+#EXTINF:-1 tvg-id="RSelvaTV.pe",RSelvaTV
+https://live.obslivestream.com/selvatv/index.m3u8
 
 #EXTINF:-1, Na Playlist
 https://raw.githubusercontent.com/ums91/umsiptv/master/streams/na.m3u
@@ -48793,6 +48785,8 @@ https://raw.githubusercontent.com/ums91/umsiptv/master/streams/ao.m3u
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MuzangalaTV.ao",Muzangala TV (1080p)
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
+#EXTINF:-1 tvg-id="TVZimbo.ao",TV Zimbo (1080p)
+https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
 
 #EXTINF:-1, Tg Playlist
 https://raw.githubusercontent.com/ums91/umsiptv/master/streams/tg.m3u
