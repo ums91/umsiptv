@@ -10,8 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repository (addinm3u branch)
         uses: actions/checkout@v3
+        with:
+          ref: addinm3u # Check out the addinm3u branch
 
       - name: Set up Python
         uses: actions/setup-python@v4
