@@ -1,4 +1,4 @@
-name: Update Playlist Every 4 Hours
+name: Update Playlist 18min
 
 on:
   schedule:
