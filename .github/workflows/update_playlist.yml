@@ -2,7 +2,7 @@ name: Update Playlist Every 4 Hours
 
 on:
   schedule:
-    - cron: cron: '*/18 * * * *' # Runs every 18 minutes
+    - cron: '*/18 * * * *' # Runs every 18 minutes
   workflow_dispatch: # Allows manual trigger
 
 jobs:
