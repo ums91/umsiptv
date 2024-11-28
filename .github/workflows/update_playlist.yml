@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repository (addinm3u branch)
         uses: actions/checkout@v3
         with:
-          ref: addinm3u # Check out the addinm3u branch
+          ref: addinm3u # Checkout addinm3u branch
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -21,7 +21,7 @@ jobs:
           python-version: 3.x
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests PyGithub
 
       - name: Run update script
         env:
