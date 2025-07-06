@@ -30,7 +30,7 @@ jobs:
           echo "# Define base URL for the GitHub raw content" >> ums.py
           echo "base_url = 'https://raw.githubusercontent.com/ums91/umsiptv/master/streams/'" >> ums.py
           echo "index_file_path = 'streams/index.m3u'" >> ums.py
-          echo "" >> generate_index.py
+          echo "" >> ums.py
           echo "# Get list of all .m3u files in streams directory" >> ums.py
           echo "m3u_files = [f for f in os.listdir('streams') if f.endswith('.m3u')]" >> ums.py
           echo "" >> ums.py
